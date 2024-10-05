@@ -6,6 +6,8 @@
 
 ![Alt text](/screenshots/example1.png?raw=true "Screenshot")
 
+Use <ESC> key to exit fullscreen
+
 Configure using .env file
 
 LCD AT&T Phone Time/Date is the font used for digital clocks. Available freely for personal use on most font websites.
