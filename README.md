@@ -1,6 +1,8 @@
 # Simple Python fullscreen MultiClock
 
-1 big digital clock in the upper 2/3 of screen with city name, date and 24h time4 small digital clocks in the lower 1/3 of screen with city name and 24h time
+1 big digital clock in the upper 2/3 of screen with city name, date and 24h time
+
+4 small digital clocks in the lower 1/3 of screen with city name and 24h time
 
 ![Alt text](/screenshots/example1.png?raw=true "Screenshot")
 
