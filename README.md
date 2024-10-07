@@ -6,7 +6,8 @@
 
 ![Alt text](/screenshots/example1.png?raw=true "Screenshot")
 
-Use <ESC> key to exit fullscreen
+Press "ESC" key to exit
+Press "u" key to update lower clocks
 
 Configure using .env file
 
