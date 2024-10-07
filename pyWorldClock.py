@@ -147,5 +147,6 @@ for i in range(4):
 update_lower_clocks(lower_clocks)
 
 root.bind('<Escape>', lambda e: root.destroy())
+root.bind("u", lambda e: update_lower_clocks(lower_clocks))
 
 root.mainloop()
