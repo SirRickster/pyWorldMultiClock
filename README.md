@@ -14,7 +14,7 @@ Configure using .env file
 
 LCD AT&T Phone Time/Date is the font used for digital clocks. Available freely for personal use on most font websites.
 
-The lower clocks switch at fixed time defined on config file from a 52 list of cities defined in .env file.
+The lower clocks update every 60 seconds (by default), randomly displaying 4 cities from those defined in the .env file
 
 Every option is self-explanatory on the .env file (change font family, fontsize, colors)
 
