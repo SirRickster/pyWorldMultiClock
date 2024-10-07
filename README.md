@@ -14,7 +14,7 @@ LCD AT&T Phone Time/Date is the font used for digital clocks. Available freely f
 
 The lower clocks switch at fixed time defined on config file from a 52 list of cities defined in .env file.
 
-Every option is self explanatory on the .env file (change font familyes, fonsize, colors)
+Every option is self explanatory on the .env file (change font family, fontsize, colors)
 
 Use as you need.
 
